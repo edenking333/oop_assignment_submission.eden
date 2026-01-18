@@ -1,4 +1,5 @@
-from math_logic import *
+from math_logic import MathLogic
+
 class AppInterface:
     def __init__(self):
         self.logic = MathLogic()
