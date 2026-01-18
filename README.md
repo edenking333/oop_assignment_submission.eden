@@ -55,7 +55,7 @@ python main.py
 :
 
 
-python main.py.py
+python main.py
 ### שאלה 5: ארכיטקטורת MVC (Contact Manager) 
 :
 
