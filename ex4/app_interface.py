@@ -20,9 +20,9 @@ class AppInterface:
                     
                 n1, n2 = parts
                 if self.logic.is_multiple(n1, n2):
-                    print(f"✅ Yes! {max(n1, n2)} is a multiple of {min(n1, n2)}")
+                    print(f" Yes! {max(n1, n2)} is a multiple of {min(n1, n2)}")
                 else:
-                    print("❌ No connection found.")
+                    print(" No connection found.")
                     
             except ValueError:
                 print("Invalid input. Please enter numbers only.")
