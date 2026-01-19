@@ -36,28 +36,15 @@
 ##  הוראות הרצה:
 כדי להריץ את הקוד, יש לפתוח את הטרמינל בתיקיית הפרויקט ולהקליד את הפקודה המתאימה לכל שאלה:
 
-### שאלה 1: אנקפסולציה (Invoice) 
-.
-**פקודת הרצה:**
-
-python main.py
+### שאלה 1: אנקפסולציה (Invoice)  
+יש להיכנס לתיקייה ex1 ולהריץ: python main.py
 ### שאלה 2: הורשה (Securities) 
-:
-
-
-python main.py
+יש להיכנס לתיקייה ex2 ולהריץ: python main.py
 ### שאלה 3: פולימורפיזם (Animals) 
-:
-
-
-python main.py
+יש להיכנס לתיקייה ex3 ולהריץ: python main.py
 ### שאלה 4: לולאת REPL (Math Checker) 
-:
-
-
-python main.py
+יש להיכנס לתיקייה ex4 ולהריץ: python main.py
 ### שאלה 5: ארכיטקטורת MVC (Contact Manager) 
-:
+יש להיכנס לתיקייה ex5 ולהריץ: python main.py
 
 
-python main.py
